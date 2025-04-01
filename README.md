@@ -1,2 +1,2 @@
 # CHIS
-Nobel Comprehensive Hurricane Impact Scale (CHIS)
+Novel Comprehensive Hurricane Impact Scale (CHIS)
